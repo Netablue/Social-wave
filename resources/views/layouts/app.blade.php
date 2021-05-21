@@ -34,15 +34,15 @@
             @if (Route::has('login'))
                 <div class="hidden fixed top-0 right-0 px-6 py-4 sm:block">
                     @auth
-                        <a href="{{ url('/home') }}" class="btn btn-primary text-sm text-gray-700 underline">Home</a>
+                        <a href="{{ url('/home') }}" class="btn btn-primary button-color text-sm text-gray-700 underline">Home</a>
                     @else
-                        <a href="{{ route('login') }}" class="btn btn-primary ml-4 text-sm text-gray-700 underline">Log in</a>
+                        <a href="{{ route('login') }}" class="btn button-color ml-4 text-sm text-gray-700 underline">Log in</a>
 
                         @if (Route::has('register'))
-                            <a href="{{ route('register') }}" class="btn btn-primary ml-4 text-sm text-gray-700 underline">Register</a>
+                            <a href="{{ route('register') }}" class="btn button-color ml-4 text-sm text-gray-700 underline">Register</a>
                         @endif
                     @endauth
-                    <a href="{{ url('/') }}" class="btn btn-primary ml-4 text-sm text-gray-700 underline">Home</a>
+                    <a href="{{ url('/') }}" class="btn button-color ml-4 text-sm text-gray-700 underline">Home</a>
                 </div>
             @endif            
         </div>

@@ -483,3 +483,9 @@ footer li {
 	color: rgb(132, 14, 168);
 	text-shadow: 1px 1px #000000;
 }
+
+.button-color {
+	background: linear-gradient(#e66465, #6a2fb8);
+	border-color: #000000;
+	color: #ffffff;
+}
