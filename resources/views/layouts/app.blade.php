@@ -9,14 +9,15 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <title>{{ config('app.name', 'Laravel') }}</title>
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/favicon.gif">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon.gif">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon.png">
-    <link rel="mask-icon" href="/favicon/favicon.png" color="#ff2d20">
-    <link rel="shortcut icon" href="favicon/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon.gif">
+    <link rel="mask-icon" href="/favicon/favicon.gif" color="#ff2d20">
+    <link rel="shortcut icon" href="favicon/favicon.gif">
     <meta name="theme-color" content="#ffffff">
     <!-- Scripts -->
-    <script src="{{ asset('js/app.js') }}" defer></script>  
+    <script src="{{ asset('js/app.js') }}" defer></script>
+    <script src="http://unpkg.com/turbolinks"></script>
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">

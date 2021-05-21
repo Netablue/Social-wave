@@ -459,8 +459,8 @@ footer li {
 
 
 .background-section-1 { /* body home page */
-	background:url("../images/syn1.jpg");
-	background-size: 115%;
+	background:url("../images/syn1.jpg") #000000;
+	background-size: 120%;
 	background-position: top;
 	background-repeat: no-repeat;
 }
