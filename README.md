@@ -7,6 +7,7 @@
 - Blog, music player based on the synthwave / Retrowave universe.🌠🌌
 
 
-<img src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git1.PNG" width="400">
-
-<img src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git2.PNG" width="400">
+<p align="center">
+    <img src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git1.PNG" width="400">
+    <img src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git2.PNG" width="400">
+</p>
