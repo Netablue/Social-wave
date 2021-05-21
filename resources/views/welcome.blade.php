@@ -24,7 +24,7 @@
             <div class="aside-left">
                 <ul>
                     <li>Éclipse</li>
-                    <li>Mirroir</li>
+                    <li>Miroir</li>
                     <li>Paradox</li>
                 </ul>
             </div>            

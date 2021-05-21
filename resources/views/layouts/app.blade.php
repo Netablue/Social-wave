@@ -10,7 +10,7 @@
     <title>{{ config('app.name', 'Laravel') }}</title>
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/favicon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon.gif">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon.png">
     <link rel="mask-icon" href="/favicon/favicon.png" color="#ff2d20">
     <link rel="shortcut icon" href="favicon/favicon.png">
@@ -73,3 +73,5 @@
     </div>
 </body>
 </html>
+
+
