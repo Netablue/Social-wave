@@ -23,8 +23,8 @@
             <!-- FIXED MENU -->   
             <div class="aside-left">
                 <ul>
-                    <li>Éclipse</li>
-                    <li>Miroir</li>
+                    <li>Eclipse</li>
+                    <li>Mirror</li>
                     <li>Paradox</li>
                 </ul>
             </div>            
@@ -32,7 +32,7 @@
 
         {{-- SECTION 1 --}}
         <section class="">       
-            <h1 class="banner_title text-center pt-1 pb-5">A-UNIVERS</h1>                                   
+            <h1 class="banner_title text-center pt-1 pb-5">Uni-wave</h1>                                   
             <article class="article1">
                 <ul id="anchor_block_part">
 
@@ -134,10 +134,24 @@
                            Vestibulum lobortis sem sit amet quam porttitor faucibus.
                         </p>
                     </li>
-
-                </ul>
+                </ul>                
             </article>  
         </section>
+
+        <section class="background-section-3 p-4">
+            <article class="article1">
+                <iframe 
+                    width="560" 
+                    height="315" 
+                    src="https://www.youtube.com/embed/OHORwLnHIEw" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe>
+            </article>
+        </section>
+
         <footer class="background-footer">
             
         </footer>         
