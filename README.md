@@ -6,3 +6,7 @@
 - Simple Laravel project, with Vue.js<img src="https://fr.vuejs.org/images/logo.png" width="20" alt="vue js logo">.
 - Blog, music player based on the synthwave / Retrowave universe.🌠🌌
 
+
+<img src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git1.PNG" width="400">
+
+<img src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git2.PNG" width="400">
