@@ -5,8 +5,7 @@
         <!-- HEADER -->
         <header>        
             <div class="banner_image">
-                <div class="banner_border_global">
-                    
+                <div class="banner_border_global">                    
                     {{-- <a class="banner-button-text" href="#anchor_block_part">Démarrer l'expérience</a> --}}
                 </div>
             </div>
@@ -19,7 +18,7 @@
             <div class="lecteur" >
                 <audio class="" style="top: 40px" controls loop src="musiques/peaceful-melody.wav"></audio>
             </div>
-
+        
             <!-- FIXED MENU -->   
             <div class="aside-left">
                 <ul>
@@ -140,15 +139,9 @@
 
         <section class="background-section-3 p-4">
             <article class="article1">
-                <iframe 
-                    width="560" 
-                    height="315" 
-                    src="https://www.youtube.com/embed/OHORwLnHIEw" 
-                    title="YouTube video player" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-                </iframe>
+                <div>
+                    @include('_music-player')
+                </div>
             </article>
         </section>
 
