@@ -11,5 +11,9 @@
 
 <p align="center">
     <img style="border-radius: 1em" src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git02.PNG" width="400">
-    <img style="border-radius: 1em" src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git02.PNG" width="400">
+    <img style="border-radius: 1em" src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git01.PNG" width="400">
+</p>
+<p align="center">
+    <img style="border-radius: 1em" src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git03.PNG" width="400">
+    <img style="border-radius: 1em" src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git04.PNG" width="400">
 </p>
