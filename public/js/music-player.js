@@ -98,7 +98,7 @@ function createTrackItem(index, name, duration) {
         document.getElementsByClassName('duration')[0].innerHTML = this.getMinutes(this.currentAudio.duration)
     }.bind(this);
 
-    var interval1;
+    // var interval1;
 
     function toggleAudio() {
 
@@ -121,7 +121,7 @@ function createTrackItem(index, name, duration) {
 
     function pauseAudio() {
         this.currentAudio.pause();
-        clearInterval(interval1);
+        // clearInterval(interval1);
     }
 
     var timer = document.getElementsByClassName('timer')[0]
