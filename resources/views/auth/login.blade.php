@@ -2,7 +2,7 @@
 
 @section('content')
 <body class="background-login" >
-    <h1 class="banner_title text-center pb-4">Uni-wave</h1>
+    <h1 class="banner_title text-center pb-4">Social-wave</h1>
     
 <div class="container">
     <div class="row justify-content-center">

@@ -10,6 +10,6 @@
 
 
 <p align="center">
-    <img style="border-radius: 1em" src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git01.PNG" width="400">
+    <img style="border-radius: 1em" src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git02.PNG" width="400">
     <img style="border-radius: 1em" src="https://github.com/Fabuzac/Social-wave/blob/main/public/images/git/git02.PNG" width="400">
 </p>
